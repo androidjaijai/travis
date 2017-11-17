@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/androidjaijai/travis/issues"
   },
-  "homepage": "https://github.com/androidjaijai/travis#readme"
+  "homepage": "https://github.com/androidjaijai/travis#readme",
+  "dependencies": {
+    "jshint": "^2.9.5"
+  }
 }
