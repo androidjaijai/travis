@@ -1,0 +1,19 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://androidjaijai@github.com/androidjaijai/travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androidjaijai/travis/issues"
+  },
+  "homepage": "https://github.com/androidjaijai/travis#readme"
+}
